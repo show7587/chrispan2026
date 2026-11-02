@@ -1,0 +1,132 @@
+[
+  {
+    "key": "construction",
+    "title": "建設萬金",
+    "subtitle": "路平、水溝通、燈會亮、廣播聽得到",
+    "icon": "mdi-road-variant",
+    "color": "#1F5135",
+    "images": [
+      {
+        "src": "images/platform/construction-1.jpg",
+        "alt": "建設萬金"
+      },
+      {
+        "src": "images/platform/construction-2.jpg",
+        "alt": "建設萬金"
+      },
+      {
+        "src": "images/platform/construction-3.jpg",
+        "alt": "建設萬金"
+      }
+    ],
+    "items": [
+      "聖山道路重新鋪設",
+      "監視器擴增至52支",
+      "巴黎花香至五溝土溝改水泥溝",
+      "滯洪池、大排定期清淤",
+      "社區民生排水溝定期清淤",
+      "廣播補點，全村聽得到",
+      "多功能廣場增加照明，停車更安心",
+      "打造社區入口意象",
+      "萬金聖母意象整頓提升",
+      "窳陋空間再造、持續綠美化社區"
+    ]
+  },
+  {
+    "key": "welfare",
+    "title": "福利萬金",
+    "subtitle": "打造沒有圍籬的銀髮安老社區",
+    "icon": "mdi-hand-heart",
+    "color": "#C9A45C",
+    "images": [
+      {
+        "src": "images/platform/welfare-1.jpg",
+        "alt": "福利萬金"
+      },
+      {
+        "src": "images/platform/welfare-2.jpg",
+        "alt": "福利萬金"
+      },
+      {
+        "src": "images/platform/welfare-3.jpg",
+        "alt": "福利萬金"
+      }
+    ],
+    "items": [
+      "據點3日延伸為5日",
+      "爭取社區日間照顧中心",
+      "建置銀髮健身房",
+      "擴大獨居關懷與送餐",
+      "成立社區青年小組",
+      "兒童課輔與運動班",
+      "延續屏科大USR合作",
+      "萬金庄學堂持續開課",
+      "弱勢重點轉介協助"
+    ]
+  },
+  {
+    "key": "culture",
+    "title": "文化萬金",
+    "subtitle": "找回馬卡道的根，守住信仰傳承",
+    "icon": "mdi-church",
+    "color": "#1F5135",
+    "images": [
+      {
+        "src": "images/platform/culture-1.jpg",
+        "alt": "文化萬金"
+      },
+      {
+        "src": "images/platform/culture-2.jpg",
+        "alt": "文化萬金"
+      },
+      {
+        "src": "images/platform/culture-3.jpg",
+        "alt": "文化萬金"
+      }
+    ],
+    "items": [
+      "爭取馬卡道正名",
+      "出版萬金老照片集",
+      "刺繡紋樣復舊傳承",
+      "擴大辦理萬金聖誕季",
+      "官將首、宋江陣薪傳",
+      "傳統節慶年年傳承",
+      "東遷先民尋根田野考察",
+      "馬卡道文化走讀路線",
+      "聖殿周邊亮點提升"
+    ]
+  },
+  {
+    "key": "tourism",
+    "title": "產業觀光",
+    "subtitle": "讓萬金平日也有人潮與收入",
+    "icon": "mdi-storefront",
+    "color": "#C9A45C",
+    "images": [
+      {
+        "src": "images/platform/tourism-1.jpg",
+        "alt": "產業觀光"
+      },
+      {
+        "src": "images/platform/tourism-2.jpg",
+        "alt": "產業觀光"
+      },
+      {
+        "src": "images/platform/tourism-3.jpg",
+        "alt": "產業觀光"
+      }
+    ],
+    "items": [
+      "開發萬金特色點心",
+      "夜市招商、假日市集",
+      "成立周邊村落市集聯盟",
+      "YouBike單車遊程",
+      "教堂平台農產展售",
+      "宗教文化深度遊程",
+      "多元就業在地培訓",
+      "聖誕季單車旅宿推廣",
+      "打造宗教、族群文化品牌農村",
+      "FB「我是萬金人」廣納民意"
+    ]
+  }
+]

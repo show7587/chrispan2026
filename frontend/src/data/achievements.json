@@ -1,0 +1,154 @@
+{
+  "stats": [
+    {
+      "value": "124",
+      "unit": "件",
+      "label": "補助專案落實"
+    },
+    {
+      "value": "30",
+      "unit": "支",
+      "label": "監視器守護"
+    },
+    {
+      "value": "97",
+      "unit": "位",
+      "label": "獨居長輩關懷"
+    },
+    {
+      "value": "30+",
+      "unit": "位",
+      "label": "長輩每週到據點"
+    },
+    {
+      "value": "294",
+      "unit": "位",
+      "label": "社區會員"
+    },
+    {
+      "value": "38",
+      "unit": "位",
+      "label": "志工夥伴"
+    },
+    {
+      "value": "77",
+      "unit": "位",
+      "label": "長壽俱樂部會員"
+    },
+    {
+      "value": "4",
+      "unit": "年",
+      "label": "馬卡道文化復振"
+    }
+  ],
+  "categories": [
+    {
+      "key": "construction",
+      "label": "建設",
+      "icon": "mdi-road-variant",
+      "color": "#1F5135",
+      "photos": [
+        {
+          "src": "images/achievements/construction-1.jpg",
+          "caption": "萬興路全線改舖柏油"
+        },
+        {
+          "src": "images/achievements/construction-2.jpg",
+          "caption": "萬巒首座親子共融公園"
+        },
+        {
+          "src": "images/achievements/construction-3.jpg",
+          "caption": "萬興路蝦皮店到店進駐"
+        },
+        {
+          "src": "images/achievements/construction-4.jpg",
+          "caption": "路口模型減速標線"
+        }
+      ],
+      "items": [
+        "萬德路道路重新鋪設",
+        "聖光映萬金教堂平台",
+        "增設反光鏡、劃紅線",
+        "萬德路路側連桿",
+        "萬和路暗溝清淤重設",
+        "滯洪池定期清淤",
+        "增設路燈、廣播補點",
+        "生態公園照明與圍欄",
+        "活動中心防水、門窗、增設無障礙環境設備",
+        "萬德路大排堤防加高工程"
+      ]
+    },
+    {
+      "key": "welfare",
+      "label": "福利",
+      "icon": "mdi-hand-heart",
+      "color": "#C9A45C",
+      "photos": [
+        {
+          "src": "images/achievements/welfare-1.jpg",
+          "caption": "萬金長壽俱樂部成立"
+        },
+        {
+          "src": "images/achievements/welfare-2.jpg",
+          "caption": "關懷據點升級3日C"
+        },
+        {
+          "src": "images/achievements/welfare-3.jpg",
+          "caption": "兒童籃球訓練營"
+        },
+        {
+          "src": "images/achievements/welfare-4.jpg",
+          "caption": "婦女社區運動班"
+        }
+      ],
+      "items": [
+        "每週一三五送餐獨居長輩",
+        "獨居長輩到宅關懷",
+        "屏科大USR延緩失能",
+        "加入縣府擴大獨居老人服務",
+        "監視器9支增設至30支",
+        "親子戰鬥陀螺賽",
+        "兒童快樂成長營",
+        "兒童直排輪班",
+        "萬金庄學堂烘焙手作",
+        "定期弱勢關懷、清寒協助"
+      ]
+    },
+    {
+      "key": "culture",
+      "label": "文化",
+      "icon": "mdi-church",
+      "color": "#1F5135",
+      "photos": [
+        {
+          "src": "images/achievements/culture-1.jpg",
+          "caption": "馬卡道老照片展"
+        },
+        {
+          "src": "images/achievements/culture-2.jpg",
+          "caption": "原創繪本《千祈萬禱》"
+        },
+        {
+          "src": "images/achievements/culture-3.jpg",
+          "caption": "金唱秋歌唱大賽"
+        },
+        {
+          "src": "images/achievements/culture-4.jpg",
+          "caption": "春節攻炮城"
+        }
+      ],
+      "items": [
+        "馬卡道族文化復振4年",
+        "遞交馬卡道民族認定",
+        "家系譜、在地耆老口述調查",
+        "聖誕季社區・村辦・聖殿聯辦",
+        "端午傳粽送愛心",
+        "傳統陣頭薪傳課程",
+        "淨萬金社區大掃除",
+        "建立夜市自治條例、重啟招商",
+        "金CHILL假日市集",
+        "績優社區甲等、關懷據點廚藝銀牌"
+      ]
+    }
+  ]
+}
